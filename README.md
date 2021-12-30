@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anudeepkantamaneni
 - 👀 I’m interested in Python language.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently a Student.
 - 💞️ I’m looking to collaborate on (Loading...)
 - 📫 How to reach me through @anudeepkantamaneni23@gmail.com 
 
