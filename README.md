@@ -11,7 +11,6 @@ Currently diving into **Python**, **AI Tools**, **GitHub Projects**, and **YouTu
 - ⚙️ Tools: Git, VS Code, Blender, Pygame, Canva  
 - 🛸 Building projects on top of open-source + AI
 ## 📌 Highlight Project
-### [🔗 Pathfinding Visualizer Engine](https://github.com/yourusername/PathfindingVisualizer)  
 *A plug-and-play Python starter kit to visualize A*, Dijkstra, and BFS algorithms for robotics and games.*
 ## 🎯 Current Focus
 - 🔍 Contributing to open-source robotics & AI projects  
