@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Tag</title>
+</head>
+<body>
+    <img src="https://via.placeholder.com/400x300" alt="Sample Image">
+</body>
+</html>
