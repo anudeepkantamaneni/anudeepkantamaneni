@@ -1,0 +1,10 @@
+SELECT numbers.num AS ids
+FROM (
+    SELECT ROW_NUMBER() OVER () AS num
+    FROM information_schema.columns
+    LIMIT 100
+) AS numbers
+LEFT JOIN Customers c ON numbers.num = c.customer_id
+WHERE numbers.num <= (SELECT MAX(customer_id) FROM Customers)
+  AND c.customer_id IS NULL
+ORDER BY ids;
